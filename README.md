@@ -1,2 +1,2 @@
 # xadmin
-xadmin下载库
+本库内容摘自<https://github.com/sshwsfc/xadmin>
